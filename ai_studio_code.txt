@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "tg": "https://t.me/YourTelegram",
+    "fb": "https://facebook.com/YourPage",
+    "yt": "https://youtube.com/YourChannel",
+    "adminAvatar": "https://i.ibb.co/L9p6p5f/admin-avatar.png",
+    "adImg": "https://via.placeholder.com/400x500",
+    "adLink": "https://google.com"
+  },
+  "slider": {
+    "s1": "https://via.placeholder.com/1200x500",
+    "s2": "https://via.placeholder.com/1200x500",
+    "s3": "https://via.placeholder.com/1200x500"
+  },
+  "apps": [],
+  "presets": [],
+  "prompts": [],
+  "coding": [],
+  "videos": []
+}
